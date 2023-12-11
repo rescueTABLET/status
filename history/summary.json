@@ -22,19 +22,19 @@
     "url": "https://app.rescuetablet.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.rescuetablet.com.ico",
     "slug": "app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 1034,
-    "timeWeek": 696,
-    "timeMonth": 665,
-    "timeYear": 675,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
+    "time": 673,
+    "timeDay": 867,
+    "timeWeek": 678,
+    "timeMonth": 660,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-12-11": 0
+      "2023-12-11": 47
     }
   },
   {

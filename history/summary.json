@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rescuetablet.de.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 4016,
     "timeDay": 4770,
     "timeWeek": 5745,
     "timeMonth": 4995,
     "timeYear": 4016,
     "dailyMinutesDown": {
-      "2023-12-20": 0
+      "2023-12-20": 12
     }
   },
   {

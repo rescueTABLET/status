@@ -63,17 +63,19 @@
     "url": "https://missions-api.rescuetablet.com/",
     "icon": "https://icons.duckduckgo.com/ip3/missions-api.rescuetablet.com.ico",
     "slug": "missions-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1136,
-    "timeDay": 1138,
-    "timeWeek": 998,
-    "timeMonth": 1110,
-    "timeYear": 1136,
-    "dailyMinutesDown": {}
+    "time": 1137,
+    "timeDay": 1155,
+    "timeWeek": 1020,
+    "timeMonth": 1112,
+    "timeYear": 1137,
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   }
 ]

@@ -9,7 +9,7 @@ sites:
   - name: App API
     url: https://app-api.rescuetablet.com/
   - name: Missions API
-    url: https://missions-api.rescuetablet.com/
+    url: https://missions-api.rescuetablet.com/i18n/en
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

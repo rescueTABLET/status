@@ -1,7 +1,7 @@
 url: https://missions-api.rescuetablet.com/i18n/en
-status: down
-code: 502
-responseTime: 10278
-lastUpdated: 2024-03-30T00:23:51.456Z
+status: up
+code: 200
+responseTime: 495
+lastUpdated: 2024-03-30T00:45:21.063Z
 startTime: 2023-10-26T16:17:31.577Z
 generator: Upptime <https://github.com/upptime/upptime>

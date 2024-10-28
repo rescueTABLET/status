@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2355,
-    "timeDay": 1829,
-    "timeWeek": 1734,
-    "timeMonth": 1933,
-    "timeYear": 2355,
+    "time": 2348,
+    "timeDay": 1617,
+    "timeWeek": 1721,
+    "timeMonth": 1868,
+    "timeYear": 2351,
     "dailyMinutesDown": {
       "2024-05-20": 18,
       "2024-05-01": 33
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 678,
-    "timeDay": 614,
-    "timeWeek": 684,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "time": 677,
+    "timeDay": 572,
+    "timeWeek": 636,
+    "timeMonth": 657,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2023-12-11": 47
     }
@@ -50,16 +50,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 955,
-    "timeDay": 1048,
-    "timeWeek": 1100,
-    "timeMonth": 1083,
-    "timeYear": 955,
-    "dailyMinutesDown": {
-      "2023-10-27": 390,
-      "2023-10-26": 463
-    }
+    "uptimeYear": "100.00%",
+    "time": 956,
+    "timeDay": 1141,
+    "timeWeek": 1103,
+    "timeMonth": 1082,
+    "timeYear": 952,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Missions API",
@@ -72,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 863,
-    "timeDay": 488,
-    "timeWeek": 522,
-    "timeMonth": 516,
-    "timeYear": 863,
+    "time": 859,
+    "timeDay": 545,
+    "timeWeek": 526,
+    "timeMonth": 496,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2024-03-30": 22,
       "2024-03-29": 288,

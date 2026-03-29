@@ -23,3 +23,66 @@ status-website:
   introMessage: If you need support, please contact our support at [info@rescuetablet.com](mailto:info@rescuetablet.com) or [+49 (0)6184 3695770](tel:+4961843695770).
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  activeIncidents: Aktive Vorfälle
+  allSystemsOperational: Alle Systeme funktionieren einwandfrei
+  incidentReport: "Vorfall #$NUMBER Bericht →"
+  activeIncidentSummary: Geöffnet am $DATE mit $POSTS Beiträgen
+  incidentTitle: Vorfall $NUMBER Details
+  incidentDetails: Vorfalldetails
+  incidentFixed: Behoben
+  incidentOngoing: Laufend
+  incidentOpenedAt: Geöffnet am
+  incidentClosedAt: Geschlossen am
+  incidentViewOnGitHub: Auf GitHub ansehen und abonnieren
+  incidentCommentSummary: Gepostet am $DATE von $AUTHOR
+  incidentBack: ← Zurück zu allen Vorfällen
+  pastIncidents: Vergangene Vorfälle
+  pastIncidentsResolved: In $MINUTES Minuten mit $POSTS Beiträgen gelöst
+  liveStatus: Live-Status
+  overallUptime: "Gesamtverfügbarkeit: $UPTIME"
+  overallUptimeTitle: Gesamtverfügbarkeit
+  averageResponseTime: "Durchschnittliche Antwortzeit: $TIMEms"
+  averageResponseTimeTitle: Durchschnittliche Antwortzeit
+  sevelDayResponseTime: 7-Tage-Antwortzeit
+  responseTimeMs: Antwortzeit (ms)
+  up: Verfügbar
+  down: Nicht verfügbar
+  degraded: Beeinträchtigt
+  ms: ms
+  loading: Lädt
+  navGitHub: GitHub
+  footer: Diese Seite ist [Open Source]($REPO), betrieben von [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Anfragelimit überschritten
+  rateLimitExceededIntro: Sie haben die Anzahl der Anfragen überschritten, die Sie in einer Stunde stellen können. Bitte warten Sie, bevor Sie erneut auf diese Website zugreifen. Alternativ können Sie ein persönliches GitHub-Zugriffstoken hinzufügen, um die Website weiterhin zu nutzen.
+  rateLimitExceededWhatDoesErrorMean: Was bedeutet dieser Fehler?
+  rateLimitExceededErrorMeaning: Diese Website verwendet die GitHub-API, um Echtzeitdaten über den Status unserer Websites abzurufen. Standardmäßig erlaubt GitHub jeder IP-Adresse 60 Anfragen pro Stunde, die Sie aufgebraucht haben.
+  rateLimitExceededErrorHowCanFix: Wie kann ich das beheben?
+  rateLimitExceededErrorFix: Sie können eine Stunde warten, bis das Limit Ihrer IP-Adresse zurückgesetzt wird. Alternativ können Sie Ihr persönliches GitHub-Zugriffstoken hinzufügen, das Ihnen zusätzliche 5.000 Anfragen pro Stunde gewährt.
+  rateLimitExceededGeneratePAT: Erfahren Sie, wie Sie ein persönliches Zugriffstoken erstellen
+  rateLimitExceededHasSet: Sie haben ein persönliches Zugriffstoken gesetzt.
+  rateLimitExceededRemoveToken: Token entfernen
+  rateLimitExceededGitHubPAT: Persönliches GitHub-Zugriffstoken
+  rateLimitExceededCopyPastePAT: Token kopieren und einfügen
+  rateLimitExceededSaveToken: Token speichern
+  errorTitle: Ein Fehler ist aufgetreten
+  errorIntro: Beim Abrufen der aktuellen Statusdetails ist ein Fehler aufgetreten.
+  errorText: Sie können es in wenigen Augenblicken erneut versuchen.
+  errorHome: Zur Startseite
+  pastScheduledMaintenance: Vergangene geplante Wartungen
+  scheduledMaintenance: Geplante Wartung
+  scheduledMaintenanceSummaryStarted: Gestartet am $DATE für $DURATION Minuten
+  scheduledMaintenanceSummaryStarts: Startet am $DATE für $DURATION Minuten
+  startedAt: Gestartet am
+  startsAt: Startet am
+  duration: Dauer
+  durationMin: $DURATION Minuten
+  incidentCompleted: Abgeschlossen
+  incidentScheduled: Geplant
+  duration24H: 24h
+  duration7D: 7T
+  duration30D: 30T
+  duration1Y: 1J
+  durationAll: alle
+  locale: de-DE

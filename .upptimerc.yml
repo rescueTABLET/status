@@ -17,6 +17,7 @@ status-website:
   cname: status.rescuetablet.com
   # baseUrl: /status
   logoUrl: https://app.rescuetablet.com/logo.svg
+  themeUrl: https://status.rescuetablet.com/rescuetablet.css
   name: rescueTABLET Status
   introTitle: "This is the **rescueTABLET** status page, where you can check whether all of our systems are running smoothly."
   introMessage: If you need support, please contact our support at [info@rescuetablet.com](mailto:info@rescuetablet.com) or [+49 (0)6184 3695770](tel:+4961843695770).

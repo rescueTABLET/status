@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1915,
-    "timeDay": 2041,
-    "timeWeek": 1972,
-    "timeMonth": 1962,
+    "time": 1914,
+    "timeDay": 2012,
+    "timeWeek": 2030,
+    "timeMonth": 1959,
     "timeYear": 1892,
     "dailyMinutesDown": {
       "2026-02-15": 23,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 4781,
-    "timeWeek": 1166,
-    "timeMonth": 682,
-    "timeYear": 595,
+    "time": 584,
+    "timeDay": 567,
+    "timeWeek": 1160,
+    "timeMonth": 684,
+    "timeYear": 594,
     "dailyMinutesDown": {}
   },
   {
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 986,
-    "timeDay": 1006,
-    "timeWeek": 1103,
-    "timeMonth": 1035,
+    "timeDay": 1012,
+    "timeWeek": 1126,
+    "timeMonth": 1034,
     "timeYear": 979,
     "dailyMinutesDown": {}
   },
@@ -62,17 +62,19 @@
     "url": "https://missions-api.rescuetablet.com/i18n/en",
     "icon": "https://icons.duckduckgo.com/ip3/missions-api.rescuetablet.com.ico",
     "slug": "missions-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 509,
-    "timeDay": 387,
-    "timeWeek": 432,
-    "timeMonth": 452,
-    "timeYear": 502,
-    "dailyMinutesDown": {}
+    "timeDay": 408,
+    "timeWeek": 427,
+    "timeMonth": 451,
+    "timeYear": 501,
+    "dailyMinutesDown": {
+      "2026-04-08": 0
+    }
   }
 ]

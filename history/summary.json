@@ -4,16 +4,16 @@
     "url": "https://rescuetablet.de",
     "icon": "https://icons.duckduckgo.com/ip3/rescuetablet.de.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "84.23%",
-    "uptimeMonth": "92.19%",
+    "uptimeMonth": "93.06%",
     "uptimeYear": "99.29%",
-    "time": 2087,
+    "time": 2088,
     "timeDay": 4128,
     "timeWeek": 3519,
-    "timeMonth": 3582,
+    "timeMonth": 3647,
     "timeYear": 2224,
     "dailyMinutesDown": {
       "2026-01-13": 42,
@@ -29,7 +29,8 @@
       "2026-10-13": 294,
       "2026-10-17": 644,
       "2026-10-18": 729,
-      "2026-10-19": 217
+      "2026-10-19": 217,
+      "2026-10-23": 0
     }
   },
   {

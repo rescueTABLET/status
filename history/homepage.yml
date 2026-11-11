@@ -1,7 +1,7 @@
 url: https://rescuetablet.de
-status: up
-code: 200
-responseTime: 3994
-lastUpdated: 2026-11-10T23:02:37.660Z
+status: down
+code: 500
+responseTime: 727
+lastUpdated: 2026-11-11T18:56:05.847Z
 startTime: 2023-10-26T16:17:22.799Z
 generator: Upptime <https://github.com/upptime/upptime>
